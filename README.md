@@ -10,6 +10,9 @@ But there are few important Part which enhace its performance.They are
 3.	Interaction Effect
 
 AdEffect:- MMM takes care of advertising. Suppose as a marketer I have aired an commercial to increase my sales. Continuously for 5 months I have invest in advertising and on the six months on wards I stopped.
+
+(Refer Attached Excel)
+
 Months	AdsGRP	Sales
 1     	2535	127250
 2	      4674	234200
